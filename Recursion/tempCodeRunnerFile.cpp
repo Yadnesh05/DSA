@@ -1,0 +1,2 @@
+
+    counting(n);
